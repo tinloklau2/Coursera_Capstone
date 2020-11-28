@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Predicting the severity of an accident with historical data
+# Peer-graded-Assignment-Capstone-Project---The-Battle-of-Neighborhoods-Week-2-
+Peer-graded Assignment: Capstone Project - The Battle of Neighborhoods (Week 2)
